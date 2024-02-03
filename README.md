@@ -6,3 +6,8 @@ Welcome to my personal webpage! After graduating with a B.S. degree in physics f
 
 ### Project: Magnons 
 Degenerate spinor Bose-Einstein condensate is a clean, controllable, and rich system to explore critical phenomena and symmetry breaking. These gases are magnetic and have a spin. Upon condensation, they align themselves to each other. This alignment breaks the global rotational symmetry, introducing low energy excitations corresponding to spin fluctuations or spin waves. These excitations can be viewed as quasi-particles called magnons. I have done and been involved in a series of researches on characterizing the dispersion relation of magnons, using them as coolant and thermometer for the majority condensate and finally, condensing them in a box-like potential naturally formed by the interplay of optical trapping and mean field repulsion from the majority condensate.
+<p align="center">
+  <a >
+    <img src="https://github.com/akiraff/ffang.github.io/assets/1439080/dc1b5abf-e35a-4028-86f4-edd8f5de6bf1"  width="600" height="280">
+  </a>
+</p>
