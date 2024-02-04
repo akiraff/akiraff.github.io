@@ -11,3 +11,24 @@ Degenerate spinor Bose-Einstein condensate is a clean, controllable, and rich sy
     <img src="https://github.com/akiraff/ffang.github.io/assets/1439080/dc1b5abf-e35a-4028-86f4-edd8f5de6bf1"  width="600" height="280">
   </a>
 </p>
+The above images show experimentally measured inhomogeneous transverse magnetization, with hue and brightness representing orientation and amplitude, as indicated by color wheel. Phase singularities are highlighted by white circles. To read more about this research topic, please check the following <strong>publications</strong>:
+  <p>
+    <strong>Fang Fang</strong>, and Joel E. Moore.
+<a href="http://www.shudan.me/papers/zhong2015.html"><strong>Optical gyrotropy from axion electrodynamics in momentum space.</strong></a>
+<em>Physical Review Letter</em>, 115:117403, 2015.
+<a href="https://arxiv.org/abs/1503.02715">arXiv:1503.02715</a>, <a href="https://doi.org/10.1103/PhysRevLett.115.117403">doi:10.1103/PhysRevLett.115.117403</a>.
+            <br>[<a href="http://arxiv.org/pdf/1503.02715.pdf">full text</a>] 
+            [<a href="javascript:void(0)" onclick="
+            (function(target, id) {
+              if ($('#' + id).css('display') == 'block')
+              {
+                $('#' + id).hide('fast');
+                $(target).text('BibTeX▼')
+              }
+              else
+              {
+                $('#' + id).show('fast');
+                $(target).text('BibTeX▲')
+              }
+            })(this, 'bibtex-zhong2015');">BibTeX▼</a>]
+            </p>
