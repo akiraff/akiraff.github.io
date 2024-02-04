@@ -15,17 +15,4 @@ The above images show experimentally measured inhomogeneous transverse magnetiza
     G. Edward Marti, Andrew MacRae, Ryan Olf, Sean Lourette, <strong>Fang Fang</strong>, and Dan M. Stamper-Kurn.
 <a><strong>Coherent Magnon Optics in a Ferromagnetic Spinor Bose-Einstein Condensate.</strong></a>
 <em>Physical Review Letter</em>, 113: 155302, 2014. <a href="https://arxiv.org/abs/1404.5631">arXiv:1404.5631</a>, <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.155302">doi:10.1103/PhysRevLett.113.155302</a>.<br>
-          <a href="javascript:void(0)" onclick="
-            (function(target, id) {
-              if ($('#' + id).css('display') == 'block')
-              {
-                $('#' + id).hide('fast');
-                $(target).text('BibTeX▼')
-              }
-              else
-              {
-                $('#' + id).show('fast');
-                $(target).text('BibTeX▲')
-              }
-            })</a>
-            </p>
+  </p>
