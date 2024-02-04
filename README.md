@@ -10,7 +10,7 @@ Degenerate spinor Bose-Einstein condensate is a clean, controllable, and rich sy
     <img src="https://github.com/akiraff/ffang.github.io/assets/1439080/dc1b5abf-e35a-4028-86f4-edd8f5de6bf1"  width="600" height="280">
   </a>
 </p>
-The above images show experimentally measured inhomogeneous transverse magnetization, with hue and brightness representing orientation and amplitude, as indicated by color wheel. Phase singularities are highlighted by white circles. To read more about this research topic, please check the following <strong>publications</strong>:
+The above images show experimentally measured inhomogeneous transverse magnetization, with hue and brightness representing orientation and amplitude, as indicated by the color wheel. Phase singularities are highlighted by white circles. To read more about this research topic, please check the following <strong>publications</strong>:
   <p>
     G. Edward Marti, Andrew MacRae, Ryan Olf, Sean Lourette, <strong>Fang Fang</strong>, and Dan M. Stamper-Kurn.
 <a><strong>Coherent Magnon Optics in a Ferromagnetic Spinor Bose-Einstein Condensate.</strong></a>
