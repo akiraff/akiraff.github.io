@@ -35,3 +35,9 @@ this research involved the development of a laser system for cooling Li and an u
 I initially investigated cross-dimensional relaxation of Li in a spherical magnetic trap within the Rb reservoir, extracting the low-energy cross-section between
 two hyperfine states. Subsequently, with both species co-trapped in a spin-independent optical dipole trap, I observed collisional spin transfer between them, enabling the characterization of three distinct heteronuclear
 spinor processes: spin exchange, spin mixing, and quadrupole exchange. 
+<p align="center">
+  <a >
+     <img src="https://github.com/akiraff/akiraff.github.io/assets/1439080/b0db29cb-9f85-4d71-a516-2a04fccd7a83"  width="400" height="150">
+ </a>
+</p>
+The above image shows three distinct spin-changing s-wave collisions: spin exchange, spin mixing, and quadrupole exchange. 
