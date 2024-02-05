@@ -54,4 +54,24 @@ To learn more about this topic, please check the following <strong>publications<
   </p>
 
 ### Project: Rydberg atom array
+Neutral atom arrays in optical tweezers with configurable geometries are a promising candidate for quantum simulations and computing. These individually trapped and detected atoms interact strongly and controllably via excitation into Rydberg states. With a newly-built Rydberg 
+simulator based on Cs atom, I conducted research on probing critical phenomena using an adiabatic state preparation method. 
+<p align="center">
+  <a >
+     <img src="https://github.com/akiraff/akiraff.github.io/assets/1439080/33e67c73-e53f-4e79-9d81-2a10e59debc7"  width="300" height="280">
+ </a>
+</p>
+The above images show the stochastically loaded atom array and its subsequent rearrangement into defect free ring geometry (upper) and rectangular geometry (lower). The image below shows the critical correlation measurements for two different system sizes, enabling extraction of the scaling dimension.
+<p align="center">
+  <a >
+     <img src="https://github.com/akiraff/akiraff.github.io/assets/1439080/cacf269e-5ebc-4963-be6b-97fce733231f"  width="300" height="280">
+ </a>
+</p>
+We are currently in preparation for a <strong>publication</strong> to talk about these exciting findings, stay tuned!
+  <p>
+    <strong>Fang Fang</strong>, Kenneth Wang, Vincent S. Liu, Yu Wang, Ryan Cimmino, Julia Wei, Marcus Bintz, Avery Parr, Jack Kemp, Kang-Kuen Ni and Norman Y. Yao.
+<a><strong>Probing critical phenomena in open quantum systems using atom arrays.</strong></a>
+<em>Manuscript in preparation.</em>
+  </p>
 
+## Fang as a manga-fan
