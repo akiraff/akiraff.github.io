@@ -40,4 +40,18 @@ spinor processes: spin exchange, spin mixing, and quadrupole exchange.
      <img src="https://github.com/akiraff/akiraff.github.io/assets/1439080/b0db29cb-9f85-4d71-a516-2a04fccd7a83"  width="400" height="150">
  </a>
 </p>
-The above image shows three distinct spin-changing s-wave collisions: spin exchange, spin mixing, and quadrupole exchange. 
+To learn more about this topic, please check the following <strong>publications</strong>:
+  <p>
+    <strong>Fang Fang</strong>, Shun Wu, Aaron Smull, Joshua A. Isaacs, Yimeng Wang, Chris H. Greene and Dan M. Stamper-Kurn.
+<a><strong>Cross-dimensional relaxation of Li-Rb atomic gas mixtures in a spherical-quadrupole magnetic trap.</strong></a>
+<em>Physical Review A (Selected as Editor's suggestion)</em>, 101: 012703, 2020. <a href="https://arxiv.org/abs/1404.5631">arXiv:1404.5631</a>, <a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.101.012703">doi:10.1103/PhysRevA.101.012703</a>.<br>
+  </p>
+
+  <p>
+    <strong>Fang Fang</strong>, Joshua A. Isaacs, Aaron Smull, Katinka Horn, L. Dalila Robledo-De Basabe, Yimeng Wang, Chris H. Greene and Dan M. Stamper-Kurn.
+<a><strong>Collisional spin transfer in an atomic heteronuclear spinor Bose gas.</strong></a>
+<em>Physical Review Research (Rapid communication)</em>, 2, 032054(R), 2020. <a href="https://arxiv.org/abs/2004.05663">arXiv:2004.05663</a>, <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.032054">doi:10.1103/PhysRevResearch.2.032054</a>.<br>
+  </p>
+
+### Project: Rydberg atom array
+
