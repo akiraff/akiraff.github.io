@@ -77,3 +77,5 @@ We are currently in preparation for a <strong>publication</strong> to talk about
   </p>
 
 ## Fang as a manga-fan
+I became a manga-fan at a very early age during my primary school. Together with a group of friends at similar age, I read a lot of mangas and watched countless animations. HERE I recommend some good ones. Please go and check them out! 
+ <a href="https://en.wikipedia.org/wiki/Fullmetal_Alchemist">Fullmetal Alchemist</a>
