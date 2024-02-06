@@ -76,6 +76,12 @@ We are currently in preparation for a <strong>publication</strong> to talk about
 <em>Manuscript in preparation.</em>
   </p>
 
-## Fang as a manga-fan
-I became a manga-fan at a very early age during my primary school. Together with a group of friends at similar age, I read a lot of mangas and watched countless animations. HERE I recommend some good ones. Please go and check them out! 
- <a href="https://en.wikipedia.org/wiki/Fullmetal_Alchemist">Fullmetal Alchemist</a>
+## Fang & Manga
+I became a manga-fan at a very early age during my primary school. Together with a group of friends at similar age, I read a lot of mangas and watched countless animations. HERE I recommend some good ones. Go and check them out! <a href="https://en.wikipedia.org/wiki/Fullmetal_Alchemist">Fullmetal Alchemist</a>, <a href="https://en.wikipedia.org/wiki/Hunter_%C3%97_Hunter">Hunter x Hunter</a>, <a href="https://en.wikipedia.org/wiki/Naruto">Naruto</a>, 
+<a href="https://en.wikipedia.org/wiki/Legend_of_the_Galactic_Heroes">Legend of the Galactic Heroes</a>, 
+<a href="https://en.wikipedia.org/wiki/Mushishi">Mushishi</a>,
+<a href="https://en.wikipedia.org/wiki/Puella_Magi_Madoka_Magica">Madoka Magica</a>,
+<a href="https://en.wikipedia.org/wiki/Bleach">Bleach</a>,
+<a href="https://en.wikipedia.org/wiki/Fate/Zero">Fate zero</a>,
+<a href="https://en.wikipedia.org/wiki/Under_One_Person">Under one person</a>,
+<a href="https://en.wikipedia.org/wiki/Mobile_Suit_Gundam_SEED">Gundam SEED</a>, ...
