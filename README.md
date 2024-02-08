@@ -95,4 +95,4 @@ I started painting at a very early age and was trained during my primary school.
 </p>
 
 ## Fang & Street dancing
-I became an enthusiast of street dancing fairly recently. I am currently trained as a <a href="https://en.wikipedia.org/wiki/Popping">popper</a> with Mega Tron & Slaughter House, and a krumper with 
+I became an enthusiast of street dancing fairly recently. I am currently trained as a <a href="https://en.wikipedia.org/wiki/Popping">popper</a> with Mega Tron & Slaughter House, and a <a href="https://en.wikipedia.org/wiki/Krumping">krumper</a> with <a href="https://en.wikipedia.org/wiki/Russell_Ferguson">Russell Ferguson</a>. 
