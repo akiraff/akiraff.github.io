@@ -105,3 +105,6 @@ I became an enthusiast of street dancing fairly recently. I am currently trained
 <p>
   <a href="https://www.youtube.com/watch?v=kLs_ndDGP3s"> Popping Final Battle - Hozin vs Ringo Winbee </a>
 </p>
+<p>
+  <a href="https://www.youtube.com/watch?v=j3ttC35T0OA"> Street Dance of China S6 </a>
+</p>
