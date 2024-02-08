@@ -88,3 +88,11 @@ I became a manga-fan at a very early age during my primary school. Together with
 
 ## Fang & Painting
 I started painting at a very early age and was trained during my primary school. My early career as a painter was concluded as not "talented" enough. Despite that, I continued painting as a hobby. These days I was quite into (water-)color pencil and digital painting. Shown below is a digital project I did at the end of my PhD.
+<p align="center">
+  <a >
+     <img src="https://github.com/akiraff/akiraff.github.io/assets/1439080/ccec3392-bccd-4840-9371-4935dad7d056"  width="700" height="280">
+ </a>
+</p>
+
+## Fang & Street dancing
+I became an enthusiast of street dancing fairly recently. I am currently trained as a <a href="https://en.wikipedia.org/wiki/Popping">popper</a> with Mega Tron & Slaughter House, and a krumper with 
