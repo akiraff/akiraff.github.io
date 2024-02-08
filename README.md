@@ -85,3 +85,6 @@ I became a manga-fan at a very early age during my primary school. Together with
 <a href="https://en.wikipedia.org/wiki/Fate/Zero">Fate zero</a>,
 <a href="https://en.wikipedia.org/wiki/Under_One_Person">Under one person</a>,
 <a href="https://en.wikipedia.org/wiki/Mobile_Suit_Gundam_SEED">Gundam SEED</a>, ...
+
+## Fang & Painting
+I started painting at a very early age and was trained during my primary school. My early career as a painter was concluded as not "talented" enough. Despite that, I continued painting as a hobby. These days I was quite into (water-)color pencil and digital painting. Shown below is a digital project I did at the end of my PhD.
