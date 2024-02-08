@@ -99,3 +99,9 @@ I became an enthusiast of street dancing fairly recently. I am currently trained
 <p>
   <a href="https://www.youtube.com/watch?v=L3TC3Q1z3cY"> Juste Debout 2017 - Kite & Madoka VS Kid Boogie & Slim Boogie</a>
 </p>
+<p>
+  <a href="https://www.youtube.com/watch?v=BUTOjm3u4AE"> SDK Jedovnice 2010 - final poppin battle KITE - NELSON </a>
+</p>
+<p>
+  <a href="https://www.youtube.com/watch?v=kLs_ndDGP3s"> Popping Final Battle - Hozin vs Ringo Winbee </a>
+</p>
