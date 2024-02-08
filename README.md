@@ -30,7 +30,7 @@ The above images show experimentally measured inhomogeneous transverse magnetiza
 <em>Physical Review Letter</em>, 116: 095301, 2016. <a href="https://arxiv.org/abs/1511.05193">arXiv:1511.05193</a>, <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.095301">doi:10.1103/PhysRevLett.116.095301</a>.<br>
   </p> 
 
-  ### Project: Cold atomic mixtures
+### Project: Cold atomic mixtures
  This project is focused on creating a heteronuclear spinor system, by introducing a new atomic species, lithium (Li ), alongside rubidium (Rb ). From a technical standpoint,
 this research involved the development of a laser system for cooling Li and an upgrade of the vacuum system to accommodate a dual-species oven, enabling the production of a cold atomic mixture.
 
